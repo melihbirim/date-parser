@@ -6,7 +6,7 @@ A lightweight library for parsing date strings into Date objects.
 
 To install the package, run:
 
-`npm install date-parser`
+`npm install re-date-parser`
 
 
 ## Usage
@@ -14,7 +14,7 @@ To install the package, run:
 To use the library, require the `date-parser` module and call the `parseDate` function with a date string and format string:
 
 ```javascript
-const parseDate = require('date-parser');
+const parseDate = require('re-date-parser');
 
 const dateString = '2023-03-09T15:12:47.621Z';
 const result = parseDate(dateString);

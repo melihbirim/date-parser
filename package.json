@@ -1,5 +1,5 @@
 {
-    "name": "date-parser",
+    "name": "re-date-parser",
     "version": "1.0.0",
     "description": "A lightweight library for parsing date strings into Date objects.",
     "main": "index.js",
